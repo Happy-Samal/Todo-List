@@ -21,7 +21,7 @@ Todo List is a web application designed for save your todo on your local storage
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/Happy-Samal/Todo-Listr.git
+   git clone https://github.com/Happy-Samal/Todo-List.git
    cd Todo-List
     ```
 
